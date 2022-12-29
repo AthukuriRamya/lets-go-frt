@@ -65,3 +65,7 @@ App Services URL : https://letsgo505.azurewebsites.net
 <img width="949" alt="contace1" src="https://user-images.githubusercontent.com/117963818/209964514-9ca1af26-a026-4c68-8ce3-cb441f8dc233.png">
 
 <img width="949" alt="contace2" src="https://user-images.githubusercontent.com/117963818/209964555-e5306e46-dc87-4a2a-88f7-a2dd107bfa83.png">
+
+# AZURE SERVICES USED
+
+<img width="740" alt="Screenshot_20221229_074742" src="https://user-images.githubusercontent.com/117963818/209966286-51edb6a3-7dcd-4146-9692-b633be6e5e4c.png">
