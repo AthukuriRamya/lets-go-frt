@@ -24,7 +24,7 @@ Static Web App URL : https://delightful-sand-027fd9110.2.azurestaticapps.net
 
 App Services URL : https://letsgo505.azurewebsites.net
 
-Health Bot URL : https://letsgo505.azurewebsites.net/bot.html
+Health Bot URL : https://delightful-sand-027fd9110.2.azurestaticapps.net/bot.html
 
 ### My Website Link Is : https://letsgo505.azurewebsites.net
 
