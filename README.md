@@ -82,4 +82,4 @@ Health Bot URL : https://delightful-sand-027fd9110.2.azurestaticapps.net/bot.htm
 
 ## AZURE SERVICES USED
 
-<img width="959" alt="Screenshot_20230106_083629" src="https://user-images.githubusercontent.com/117963818/211039458-8143e408-c975-4e43-8fc4-8049cff6d6f5.png">
+<img width="955" alt="Screenshot_20230115_091830" src="https://user-images.githubusercontent.com/117963818/212551224-24e9d51a-e314-434c-a0a9-918258a8ebbd.png">
